@@ -1,4 +1,3 @@
-
 # Expense Tracker Application (Java Swing)
 
 ## 📌 Overview
@@ -55,7 +54,14 @@ java ExpenseTrackerGUI
 ```
 
 ---
+### Run using JAR file
 
+Since this is a Java Swing application, it cannot run directly in the browser.
+
+Download the JAR file and run:
+
+java -jar ExpenseTracker.jar
+---
 ## 💻 Requirements
 
 * Java JDK 8 or above
